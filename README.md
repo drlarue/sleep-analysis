@@ -15,13 +15,12 @@ Browse through the notebook to see a summary of my analysis as well as all of th
 4. Data Setup for Modelling
 5. Deep Sleep Analysis
 	1. LASSO
-	2. LASSO as Variable Selection
-		1. OLS
-		2. Ridge
-		3. Principal Components Regression
-		4. Partial Least Squares
-	3. Gradient Boosting Regression Trees
-	4. Random Forest
+	2. OLS (post LASSO as Feature Selection)
+	3. Ridge
+	4. Principal Components Regression
+	5. Partial Least Squares
+	6. Gradient Boosting Regression Trees
+	7. Random Forest
 		1. Treeinterpreter (Contribution Plots)
 	5) Summary: Deep Sleep Predictive Models
 6. "Above Average" Sleep Rating Classification
